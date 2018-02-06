@@ -1,0 +1,9 @@
+﻿  Cell.cpp
+  CellGroup.cpp
+  Main.cpp
+  SudokuPuzzle.cpp
+  Generating code
+  All 456 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sudoku.vcxproj -> Z:\08227\Sudoku\trunk\ACW_Sudoku\Release\Sudoku.exe
+  Sudoku.vcxproj -> Z:\08227\Sudoku\trunk\ACW_Sudoku\Release\Sudoku.pdb (Full PDB)
